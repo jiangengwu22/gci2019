@@ -1,0 +1,12 @@
+EVENT_NAME,STATUS,ORGANIZER,URL,CITY,COUNTRY,lat,lon
+R Camp Congo,Conf,Narcisse Mbunzama,,Kinshasa,Congo,-4.325,15.322222
+rOpenSci Australia,Conf,Nicholas Tierney,,Melbourne,Australia,-37.813611,144.963056
+uRos2017,Conf,Ciprian Alexandru,http://www.r-project.ro/conference2017/index.html#Programme,Bucharest,Romania,44.4325,26.103889
+deRSE19,Conf, , https://www.de-rse.org/de/conf2019/,Potsdam,Germany,52.4,13.066667
+Cascadia R Conference,Conf,,https://cascadiarconf.com/,Bellevue,USA,47.6,-122.166667
+BioConductor,Conf,,http://bioc2019.bioconductor.org/index,New York,USA,40.661, -73.944
+UseR Toulouse,Conf,,http://user2019.r-project.org/faq/,Toulouse,France,43.6045,1.444
+EARL Conference,Conf,,https://earlconf.com/,London,UK,51.507222,-0.1275
+R/Medicine,Conf,,https://r-medicine.com/#r_medicine_2018,New Haven,USA,41.31,-72.923611
+satRday Chicago,Conf,,https://chicago2019.satrdays.org/,Chicago,USA,41.881944,-87.627778
+New York R Conference,Conf,,https://www.rstats.nyc/,New York,USA,40.661, -73.944
